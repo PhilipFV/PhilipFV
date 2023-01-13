@@ -1,3 +1,3 @@
 # Hello There! 👀
 
-- [Website](https://github.philipv.tech)
+- [Website](https://www.philipv.tech)
